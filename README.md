@@ -1,2 +1,4 @@
-# Medical-Schedule-AI-Agent
-AI-powered agent for automating patient–doctor scheduling with calendar, communication, and database integration.
+
+to run this project 
+
+python -m streamlit run app/main.py
